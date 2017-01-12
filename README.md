@@ -14,9 +14,7 @@
 
 3) Using the command line, go inside the project's folder
 
-4) Use `npm install` to install the dependencies (this might take a few minutes)
+4) Use `node index.js` to run the script
 
-5) Use `node index.js` to run the script
-
-6) You will find the split files inside the _parsedFiles_ folder
+5) You will find the split files inside the _parsedFiles_ folder
 
